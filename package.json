@@ -1,0 +1,12 @@
+{
+  "name": "npm-package-qwe",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "republish": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "feden",
+  "license": "ISC"
+}
